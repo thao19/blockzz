@@ -1,0 +1,48 @@
+
+pausepopupatlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PAUSE
+  rotate: false
+  xy: 680, 788
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+RESTART
+  rotate: false
+  xy: 680, 887
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+bgpopup
+  rotate: false
+  xy: 2, 190
+  size: 676, 812
+  orig: 676, 812
+  offset: 0, 0
+  index: -1
+btnclose
+  rotate: false
+  xy: 796, 925
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 484, 73
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 2, 2
+  size: 480, 186
+  orig: 480, 186
+  offset: 0, 0
+  index: -1
